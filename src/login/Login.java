@@ -8,6 +8,7 @@ public class Login {
 	public void login(){
 		System.out.println("kkkkkkkkkkkkkkkkkkkkkk");
 		System.out.println("少时诵诗书所所所所所k");
+		System.out.println("ssss");
 	}
 	
 }
